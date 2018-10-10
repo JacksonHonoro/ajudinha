@@ -1,3 +1,4 @@
+/*Deixando seu codigo mais bonito*/
 window.onload = function() {
 	document.body.style.backgroundColor = "#f0f8ff";
 	document.body.style.margin = "0px";
